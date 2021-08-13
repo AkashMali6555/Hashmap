@@ -1,0 +1,8 @@
+7) consider the following code snipped.
+
+int i=10;
+int n= i++%5;
+ what are the values of i and n after the code is executed?
+
+what are the final values of i and n if insteard of using the postfix increment operator (i++), you use the prefix version (++i)?
+ 
